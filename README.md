@@ -1,4 +1,4 @@
-# _Neo Cactus_ for Jekyll
+# _Marfa_ for Jekyll
 
 #### Demo: [https://mmarfil.com/](https://mmarfil.com/)
 
