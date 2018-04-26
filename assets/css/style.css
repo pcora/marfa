@@ -13,7 +13,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 /* Spacing */
-.highlight, .post h1, h2, h3, p, .post-body ul, .dates, .post-body li, .bio li, video, pre ::before {
+.highlight, .post h1, h2, h3, p, .post-body ul, .dates, .post-body li, .bio li, audio, video, pre ::before {
 	margin-top: 1em;
 }
 
@@ -48,10 +48,6 @@ body {
 	color: #aaa;
 	margin-top: 0;
 	font-weight: 400;
-}
-
-.bio p:first-child {
-	margin-top: 0;
 }
 
 .bio li {
