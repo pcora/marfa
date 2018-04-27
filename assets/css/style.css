@@ -30,7 +30,7 @@ body {
 
 /* Profile */
 
-header a {
+header a, header a:hover {
 	box-shadow: none;
 }
 
