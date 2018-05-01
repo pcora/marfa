@@ -1,6 +1,6 @@
 # _Marfa_ for Jekyll
 
-#### Demo: [https://mmarfil.com/](https://mmarfil.com/)
+#### Demo: [mmarfil.com/](http://mmarfil.com/)
 
 ## Screenshot
 
