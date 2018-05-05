@@ -11,5 +11,5 @@ This Jekyll theme started as a port of [Cactus](https://github.com/eudicots/Cact
 #### Disclaimer: I'm only a designer, so please don't expect the code to be pretty.
 
 ## Usage
-To start your project, [fork this respository](https://github.com/mmarfil/neocactus/fork), put in your content, and go!
+To start your project, [fork this respository](https://github.com/mmarfil/marfa/fork), put in your content, and go!
 
