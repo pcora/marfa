@@ -192,6 +192,10 @@ code.highlighter-rouge {
 	list-style-type: circle !important;
 }
 
+.post-body p:first-child {
+	margin-top: 0;
+}
+
 b, strong {
 	font-weight: 500;
   color: #1E2025;
