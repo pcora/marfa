@@ -4,7 +4,7 @@ description: "A short description."
 baseurl: ""
 url: "https://site.url"
 email: "email@site.url"
-microblog_user: "joe"
+microblog_user: "enter-username"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 paginate: 20
