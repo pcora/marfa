@@ -95,17 +95,12 @@ header h4 {
 
 nav.main-nav {
   margin: 0 auto;
-  padding-top: 6px;
   z-index: 100;
-  position: absolute;
-  display: block;
-  top: 20px;
-  right: 20px;
+  text-align: right;
+  line-height: 2;
 }
 
 nav.main-nav a {
-  top: 8px;
-  right: 6px;
   color: #000;
   font-size: 13px;
   font-weight: 500;
@@ -464,7 +459,7 @@ h2.headline {
   .profile #wrapper {
     margin: 0 auto;
     text-align: center;
-    padding: 60px 0 40px 0;
+    padding: 40px 0;
   }
 
   #post-meta {
