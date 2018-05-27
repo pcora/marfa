@@ -459,7 +459,7 @@ h2.headline {
   .profile #wrapper {
     margin: 0 auto;
     text-align: center;
-    padding: 40px 0;
+    padding: 50px 0 30px 0;
   }
 
   #post-meta {
@@ -468,7 +468,7 @@ h2.headline {
   }
 
   .post {
-    margin: 70px 0 0 0;
+    margin: 50px 0 0 0;
   }
 
   h1 {
