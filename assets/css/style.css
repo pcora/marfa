@@ -72,7 +72,7 @@ header h4 {
 .profile #wrapper {
   margin: 0 auto;
   text-align: center;
-  padding: 70px 0;
+  padding: 40px 0 70px 0;
 }
 
 .profile #avatar {
@@ -384,7 +384,7 @@ h2.headline {
 }
 
 .post {
-  margin: 169px 0 0 0;
+  margin: 139px 0 0 0;
 }
 
 /* Post Navigation */
@@ -468,7 +468,7 @@ h2.headline {
   }
 
   .post {
-    margin: 100px 0 0 0;
+    margin: 70px 0 0 0;
   }
 
   h1 {
