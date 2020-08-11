@@ -2,9 +2,9 @@ title: "Blog Title"
 author: "Your Name"
 description: "A short description."
 baseurl: ""
-url: "https://site.url"
-email: "email@site.url"
-microblog_user: "enter-username"
+url: "https://pcora.github.io/marfa/"
+email: "email@pcora.me"
+microblog_user: "pcora"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 paginate: 20
